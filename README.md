@@ -29,7 +29,7 @@ This project is the front-end part of MTGBOX, a website dedicated to the trading
 To set up this project locally, follow these steps:
 
 1. Clone the repository:
- `git clone https://github.com/yourUsername/mtgbox-frontend.git`
+ `git clone https://github.com/yourUsername/WCS-MTG-Box-Front.git`
 
 2. Install the dependencies:
 `npm install`
