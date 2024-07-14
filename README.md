@@ -1,9 +1,10 @@
 
-# <p align="center">MTG Box ![](https://i.postimg.cc/xC9j3SK0/mtg-background-5-fotor-2024062314112.png)
+# <p align="center">MTG Box</p>
+![](https://i.postimg.cc/xC9j3SK0/mtg-background-5-fotor-2024062314112.png)
   
 ## Table of Contents
 - [Introduction](#introduction)
-- [Tech Stack](#tecch-stack)
+- [Stack](#stack)
 - [Setup](#setup)
 - [Usage](#usage)
 - [License](#license)
@@ -16,12 +17,12 @@ This project is the front-end part of MTGBOX, a website dedicated to the trading
 
 
 
-## Tech Stack
-- [Angular](https://https://angular.dev/)
+## Stack
+- [Angular](https://https://www.angular.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [RxJs](https://www.https://rxjs.dev/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Angular Material](https://material.angular.io//)
+- [RxJs](https://www.https://www.rxjs.dev/)
+- [Tailwind CSS](https://www.tailwindcss.com/)
+- [Angular Material](https://www.material.angular.io//)
 
 
 ## Setup
